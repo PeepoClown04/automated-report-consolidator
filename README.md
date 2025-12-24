@@ -1,4 +1,4 @@
-# Automated Report Consolidator
+# Automated Report Consolidator ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 Script de automatización administrativa para procesar, limpiar y unificar múltiples fuentes de datos (Excel/CSV/PDF) en un reporte maestro coherente. Diseñado para reducir el tiempo de procesamiento de datos manual en entornos corporativos.
 
